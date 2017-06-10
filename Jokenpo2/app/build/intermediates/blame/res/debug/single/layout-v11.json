@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Jogos Digitais para Dipositivos Moveis\\Jokenpo2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Johnatan\\.android\\build-cache\\f4fb5f3e11a2397db8ea9937487f815e5083d2b6\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "C:\\Jogos Digitais para Dipositivos Moveis\\Jokenpo2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Johnatan\\.android\\build-cache\\f4fb5f3e11a2397db8ea9937487f815e5083d2b6\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Jogos Digitais para Dipositivos Moveis\\Jokenpo2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Johnatan\\.android\\build-cache\\f4fb5f3e11a2397db8ea9937487f815e5083d2b6\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "C:\\Jogos Digitais para Dipositivos Moveis\\Jokenpo2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Johnatan\\.android\\build-cache\\f4fb5f3e11a2397db8ea9937487f815e5083d2b6\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "C:\\Jogos Digitais para Dipositivos Moveis\\Jokenpo2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Johnatan\\.android\\build-cache\\f4fb5f3e11a2397db8ea9937487f815e5083d2b6\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Jogos Digitais para Dipositivos Moveis\\Jokenpo2\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Johnatan\\.android\\build-cache\\f4fb5f3e11a2397db8ea9937487f815e5083d2b6\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    }
+]

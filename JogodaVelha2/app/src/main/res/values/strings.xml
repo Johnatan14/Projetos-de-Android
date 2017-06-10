@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JogodaVelha</string>
+    <string name="vencedor">%s venceu!!!</string>
+    <string name="player">Jogador: %s</string>
+</resources>

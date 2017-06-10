@@ -1,0 +1,4 @@
+#Thu Jun 08 16:40:56 BRT 2017
+base.0=C\:\\Jogos Digitais para Dipositivos Moveis\\Jokenpo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3
+renamed.0=classes.dex
+file.0=C\:\\Jogos Digitais para Dipositivos Moveis\\Jokenpo2\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_3\\classes.dex

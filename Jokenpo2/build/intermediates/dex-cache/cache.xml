@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Jogos Digitais para Dipositivos Moveis\Jokenpo2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Jogos Digitais para Dipositivos Moveis\Jokenpo2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_4ca60079633d2e353b5c3cb6a99072431ad3bc96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Jogos Digitais para Dipositivos Moveis\Jokenpo2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ade86cd227620d94af8aa1f65697756a9726292">
+        <dex dex="C:\Jogos Digitais para Dipositivos Moveis\Jokenpo2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_679f4e4daf09cce13f1eecf7fa8237e95017a7a1\classes.dex" />
+    </item>
+
+</items>

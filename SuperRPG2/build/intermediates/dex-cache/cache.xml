@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Jogos Digitais para Dipositivos Moveis\SuperRPG2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c194a254a01bdc18dd159cb5a9cc15882e3e76de">
+        <dex dex="C:\Jogos Digitais para Dipositivos Moveis\SuperRPG2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6d6b7460fa3bbe9c83065c7edef5e7375334192c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Jogos Digitais para Dipositivos Moveis\SuperRPG2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Jogos Digitais para Dipositivos Moveis\SuperRPG2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6abb1bf1f11ea26866d640cc23659fd01b4f37a6\classes.dex" />
+    </item>
+
+</items>

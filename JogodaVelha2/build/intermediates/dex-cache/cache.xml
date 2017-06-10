@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Jogos Digitais para Dipositivos Moveis\JogodaVelha2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Jogos Digitais para Dipositivos Moveis\JogodaVelha2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_70dc36a068d712122eab68037231aeed14a59b63\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Jogos Digitais para Dipositivos Moveis\JogodaVelha2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="326b0fd5a45fe9c986460c479b647f3550a969fe">
+        <dex dex="C:\Jogos Digitais para Dipositivos Moveis\JogodaVelha2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6cf0585881b97d39ceb5d47f31095a269c676914\classes.dex" />
+    </item>
+
+</items>
