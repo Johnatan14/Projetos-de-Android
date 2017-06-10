@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Jogos Digitais para Dipositivos Moveis\Conversor\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Jogos Digitais para Dipositivos Moveis\Conversor\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_1e1f5580f97c10df07d6b8af4ddce3229e0bc169\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Jogos Digitais para Dipositivos Moveis\Conversor\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b37d7d0dc872655873a80ad032e252130c2b042c">
+        <dex dex="C:\Jogos Digitais para Dipositivos Moveis\Conversor\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_50bcb1b5c740729a22caccfba1f3735fdac765df\classes.dex" />
+    </item>
+
+</items>
